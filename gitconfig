@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bonfante.anne@gmail.com
+	name = Anne Bonfante
